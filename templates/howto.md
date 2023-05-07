@@ -1,2 +1,2 @@
 ## How-To
-This is a how-to template
+/--This is a how-to template--/

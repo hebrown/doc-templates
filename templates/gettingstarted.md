@@ -1,2 +1,2 @@
 ## Getting Started
-This is a getting started template
+/--This is a getting started template--/
